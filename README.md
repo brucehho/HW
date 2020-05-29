@@ -1,5 +1,4 @@
 # HW
-this is the frist repository
 
 Project Title
 One Paragraph of project description goes here
