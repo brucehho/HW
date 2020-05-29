@@ -1,4 +1,4 @@
-
+![headshot](NorthMale_1920x1080.jpg)
 # Project Title
 
 One Paragraph of project description goes here
